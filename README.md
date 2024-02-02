@@ -1,6 +1,4 @@
-# Project Title
-
-## RIOT DATAS
+# RIOT DATAS
 
 Welcome to the RIOT DATAS project! This application is currently in its early stages and is designed to display items related to the popular game, League of Legends. As development progresses, our goal is to evolve this into a more comprehensive app.
 
