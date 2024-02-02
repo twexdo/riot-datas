@@ -1,52 +1,28 @@
-# RIOT DATAS
+# Hello Node (blank)
 
-Welcome to the RIOT DATAS project! This application is currently in its early stages and is designed to display items related to the popular game, League of Legends. As development progresses, our goal is to evolve this into a more comprehensive app.
+[Node.js](https://nodejs.org/en/about/) is a popular runtime that lets you run JavaScript on the server. This project uses the [Fastify](https://www.fastify.io/) framework and basic templating with [Handlebars](https://handlebarsjs.com/).
 
-## Current Features
+_Last updated: 14 August 2023_
 
-At the moment, the app provides functionality to display various in-game items. However, we have ambitious plans to expand its capabilities in the future.
+## What's in this project?
 
-## Technologies Used
+← `README.md`: That’s this file, where you can tell people what your cool website does and how you built it.
 
-This project is built using the following technologies:
+← `public/style.css`: The styling rules for your pages and posts.
 
-- **React**: A JavaScript library for building user interfaces.
-- **TypeScript**: A superset of JavaScript that adds static typing to the language.
-- **Material-UI (MUI) Components**: A React UI framework that implements Google's Material Design.
+← `server.js`: The main server script for your new site.
 
-## API Integration
+← `src/`: This folder holds page templates, additional scripts.
 
-We rely on the Riot Games API to fetch and display data related to League of Legends. You can find more information about the Riot Games API [here](https://developer.riotgames.com/apis).
+### Working in the `src/` folder 📁
 
-## Getting Started
+← `src/pages/index.hbs`: This is the main page template for your site.
 
-To get started with the project, follow these steps:
+![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-1. Clone the repository:
+## You built this with Glitch!
 
-    ```bash
-    git clone https://github.com/your-username/riot-datas.git
-    ```
+[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
-2. Install dependencies:
-
-    ```bash
-    cd riot-datas
-    npm install
-    ```
-
-3. Start the development server:
-
-    ```bash
-    npm start
-    ```
-
-This will launch the application locally, and you can access it by navigating to `http://localhost:3000` in your web browser.
-
-## Contributing
-
-We welcome contributions from the community! If you would like to contribute to the development of this project, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
+- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
