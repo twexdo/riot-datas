@@ -1,25 +1,54 @@
-# Riot League of Legends Web App
+# Project Title
 
-Welcome to the Riot League of Legends Web App! This application is built using React and serves as a platform for exploring and interacting with League of Legends data provided by Riot Games API.
+## RIOT DATAS
 
-## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to the RIOT DATAS project! This application is currently in its early stages and is designed to display items related to the popular game, League of Legends. As development progresses, our goal is to evolve this into a more comprehensive app.
+
+## Current Features
+
+At the moment, the app provides functionality to display various in-game items. However, we have ambitious plans to expand its capabilities in the future.
+
+## Technologies Used
+
+This project is built using the following technologies:
+
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A superset of JavaScript that adds static typing to the language.
+- **Material-UI (MUI) Components**: A React UI framework that implements Google's Material Design.
+
+## API Integration
+
+We rely on the Riot Games API to fetch and display data related to League of Legends. You can find more information about the Riot Games API [here](https://developer.riotgames.com/apis).
 
 ## Getting Started
 
-### Prerequisites
-Before you begin, ensure you have the following installed on your machine:
-- Node.js: [Download Node.js](https://nodejs.org/)
-- npm (Node Package Manager): npm is included with Node.js, so no separate installation is needed.
+To get started with the project, follow these steps:
 
-### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/riot-league-of-legends-web-app.git
+
+    ```bash
+    git clone https://github.com/your-username/riot-datas.git
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    cd riot-datas
+    npm install
+    ```
+
+3. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+This will launch the application locally, and you can access it by navigating to `http://localhost:3000` in your web browser.
+
+## Contributing
+
+We welcome contributions from the community! If you would like to contribute to the development of this project, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
